@@ -1,0 +1,2 @@
+// Basic JavaScript form validation and confirmation.
+document.addEventListener("DOMContentLoaded",()=>{["enquiryForm","contactForm"].forEach(id=>{const f=document.getElementById(id);if(!f)return;f.addEventListener("submit",e=>{e.preventDefault();if(!f.checkValidity()){f.reportValidity();return}const m=f.querySelector("p");if(m){m.textContent="Thank you. Your submission has been received for this demonstration website.";m.style.color="green"}f.reset()})})});

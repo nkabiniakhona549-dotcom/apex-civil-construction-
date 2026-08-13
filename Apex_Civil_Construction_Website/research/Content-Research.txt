@@ -1,0 +1,10 @@
+APEX CIVIL & CONSTRUCTION SERVICES – RESEARCH
+Organisation: Fictional South African construction and civil engineering business.
+Target audience: homeowners, property developers, businesses, contractors and organisations.
+Services: building construction; civil engineering; road construction and paving; renovations and maintenance; earthworks; project support.
+
+Sources consulted:
+G5 Civil Contractors (2026), https://g5civil.co.za/
+Power Star Civil (2026), https://www.powerstarcivil.co.za/
+GitHub Docs (2026), Uploading a project to GitHub, https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github
+GitHub Docs (2026), Quickstart for GitHub Pages, https://docs.github.com/en/pages/quickstart
